@@ -6,7 +6,7 @@
     <a href="https://double-image.vercel.app/" target="_blank">2 Render Target (Video & Image)</a><br>
     <a href="https://mihairazvan.vercel.app/" target="_blank">Geometry distortion & RGB Shift & Post Processing Effect</a><br>
     <a href="https://homepage-ten-tawny.vercel.app/" target="_blank">Simple Game</a><br>
-    <a href="https://vercel.com/mihairazvan9/pixel-distortion" target="_blank">Pixel distortion</a><br>
+    <a href="https://pixel-distortion-two.vercel.app/" target="_blank">Pixel distortion</a><br>
     <a href="https://particle-zoom.vercel.app/" target="_blank">Image distortion to particle</a><br>
     <a href="https://particle-wave.vercel.app/" target="_blank">Image particle wave</a><br>
     <a href="https://test-webxr.vercel.app/" target="_blank">Augment Reality</a><br>
